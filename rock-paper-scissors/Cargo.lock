@@ -3,5 +3,5 @@
 version = 3
 
 [[package]]
-name = "hatching"
+name = "rock-paper-scissors"
 version = "0.1.0"
